@@ -20,6 +20,15 @@
     border: none;
     border-radius: 10px;
 }
+/* Student review */
+hr{
+    height: 4px;
+    width: 200px;
+    background-image: linear-gradient(45deg, yellow, rgb(255, 96, 96));
+    position: relative;
+    bottom: 40px;
+    border-radius: 30%;
+}
 
 /* footer */
 footer .list-group{
