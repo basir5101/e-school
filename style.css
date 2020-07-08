@@ -14,3 +14,15 @@
     background-color: white;
 }
 
+/* footer */
+footer .list-group{
+    list-style: none;
+}
+footer ul li a{
+    color: white;
+    text-decoration: none;
+}
+footer ul li a:hover{
+    text-decoration: none;
+    color: aqua;
+}
